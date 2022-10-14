@@ -1,0 +1,95 @@
+body{
+    background-color: rgb(233, 232, 232);
+    font-family: 'Roboto', sans-serif;
+}
+
+.topnav{
+    background-color: white;
+    height: 70px;
+    border-bottom-color: gray;
+}
+
+.topnav a{
+    float: left;
+    padding: 20px 0 20px 551.600px;
+    font-size: 20px;
+}
+
+.navbot{
+    float:right;
+}
+
+.navbot i{
+    float:left;
+    padding: 20px 20px 20px 0;
+    font-size: 30px;
+}
+
+.post{
+    background-color: white;
+    margin: auto;
+    margin-top: 30px;
+    width: 400px;
+    height: auto;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding:15px;
+}
+
+.primerheader{
+    display: flex;
+}
+
+.comments{
+    padding: 15px;
+}
+
+.usuario{
+    display: flex;
+    flex-direction: column;
+}
+
+.picture{
+    width: 400px;
+    height: 300px;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
+a{
+    text-decoration: none;
+    color: black;   
+}
+
+i{
+    font-size: 30px;
+    padding-right: 4px;
+}
+
+#fecha{
+    color: gray;
+    padding-right: 6px;
+}
+
+#html{
+    font-size: 40px;
+    padding-right: 10px;
+}
+
+#bookmark{
+    float: right;
+    padding-right: 0;
+}
+
+#puntos{
+    padding-right: 0;
+}#puntos{
+    padding-right: 0;
+}
